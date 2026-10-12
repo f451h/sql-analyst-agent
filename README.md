@@ -77,7 +77,7 @@ There are also tests for every tool, all the write-blocking rules, the read-only
 ## Run it
 
 ```bash
-git clone https://github.com/Fasiuu/sql-analyst-agent
+git clone https://github.com/f451h/sql-analyst-agent
 cd sql-analyst-agent
 pip install -r requirements.txt
 cp .env.example .env     # add a free Groq key from console.groq.com
