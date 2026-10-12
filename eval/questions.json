@@ -1,0 +1,81 @@
+[
+  {
+    "question": "How many customers does the store have?",
+    "expected": [
+      "59"
+    ]
+  },
+  {
+    "question": "Which country generated the most revenue, and how much?",
+    "expected": [
+      "USA",
+      "523.06"
+    ]
+  },
+  {
+    "question": "What was total revenue in 2022?",
+    "expected": [
+      "481.45"
+    ]
+  },
+  {
+    "question": "Which genre has the most tracks?",
+    "expected": [
+      "Rock",
+      "1297"
+    ]
+  },
+  {
+    "question": "Which artist has the most albums?",
+    "expected": [
+      "Iron Maiden",
+      "21"
+    ]
+  },
+  {
+    "question": "Who is the top customer by total spend?",
+    "expected": [
+      "Helena Holý",
+      "49.62"
+    ]
+  },
+  {
+    "question": "What is the average invoice total?",
+    "expected": [
+      "5.65"
+    ]
+  },
+  {
+    "question": "Which sales support agent brought in the most revenue?",
+    "expected": [
+      "Jane Peacock",
+      "833.04"
+    ]
+  },
+  {
+    "question": "By what percentage did yearly revenue change from 2021 to 2025?",
+    "expected": [
+      "0.25"
+    ]
+  },
+  {
+    "question": "Which is the longest track, and how many minutes is it?",
+    "expected": [
+      "Occupation / Precipice",
+      "88.1"
+    ]
+  },
+  {
+    "question": "How many tracks have never been sold?",
+    "expected": [
+      "1519"
+    ]
+  },
+  {
+    "question": "Which media type sells the most units?",
+    "expected": [
+      "MPEG audio file",
+      "1976"
+    ]
+  }
+]
