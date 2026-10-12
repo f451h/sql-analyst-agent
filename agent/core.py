@@ -7,7 +7,7 @@ from dataclasses import dataclass, field
 
 from .tools import TOOL_SPECS, Workspace
 
-DEFAULT_MODEL = "llama-3.3-70b-versatile"
+DEFAULT_MODEL = "openai/gpt-oss-120b"
 
 SYSTEM_PROMPT = """You are a careful data analyst with read-only access to a SQLite database of a digital music
 store (customers, invoices, tracks, albums, artists, genres, employees, playlists).

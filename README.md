@@ -1,6 +1,6 @@
 # SQL Analyst Agent
 
-An LLM agent that answers business questions about a database in plain English. It inspects the schema, writes and runs SQL, recovers from its own errors, does arithmetic with a calculator tool, draws charts, and shows every step it took. It's built on Groq tool calling (Llama 3.3 70B) with a **hand-written agent loop**, no agent framework.
+An LLM agent that answers business questions about a database in plain English. It inspects the schema, writes and runs SQL, recovers from its own errors, does arithmetic with a calculator tool, draws charts, and shows every step it took. It's built on Groq tool calling (GPT-OSS 120B) with a **hand-written agent loop**, no agent framework.
 
 ![App screenshot](images/screenshot.png)
 

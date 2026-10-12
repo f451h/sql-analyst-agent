@@ -77,7 +77,7 @@ def render_steps(steps: list[dict]):
 with st.sidebar:
     st.subheader("Settings")
     api_key = st.text_input("Groq API key", type="password", value=os.getenv("GROQ_API_KEY", ""))
-    model = st.selectbox("Model", [DEFAULT_MODEL, "openai/gpt-oss-120b"])
+    model = st.selectbox("Model", [DEFAULT_MODEL, "openai/gpt-oss-20b", "qwen/qwen3.8-27b"])
     st.subheader("The database")
     st.caption("Chinook: a digital music store with 59 customers, 412 invoices, 3,503 tracks and 2021-2025 sales. "
                "The agent has read-only access.")
